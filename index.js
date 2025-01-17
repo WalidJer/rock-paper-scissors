@@ -23,7 +23,7 @@ function determineWinner(playerInput, computerInput){
 
             return "you win!"
     }
-    return "Computer wins!"
+    return "Computer wins for this game!"
 
 
 }
